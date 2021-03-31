@@ -1,0 +1,26 @@
+{
+  "name": "nftcreatorr",
+  "version": "1.0.0",
+  "description": "A package to create programmatic borders for NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrewjrangel/NFTCreatorr.git"
+  },
+  "keywords": [
+    "nft",
+    "canvas",
+    "borders",
+    "image",
+    "creation"
+  ],
+  "author": "Andrew Rangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjrangel/NFTCreatorr/issues"
+  },
+  "homepage": "https://github.com/andrewjrangel/NFTCreatorr#readme"
+}
